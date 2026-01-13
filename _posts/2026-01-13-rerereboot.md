@@ -1,6 +1,6 @@
 ---
 title: Re-Re-Reboot
-date: 2026-01-13
+date: 2026-01-11
 excerpt: "A blog made up entirely of apologies for not posting and promises to do more is not, typically, interesting."
 permalink: /posts/2026/01/rerereboot/
 tags:
